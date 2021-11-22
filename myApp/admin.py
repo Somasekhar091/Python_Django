@@ -5,3 +5,6 @@ from myApp.models import Signup
 
 admin.site.register(Register)
 admin.site.register(Signup)
+
+
+getback soon...!
