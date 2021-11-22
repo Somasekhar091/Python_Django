@@ -34,3 +34,6 @@ urlpatterns = [
     path('signup/',views.signup,name='signup'),
     path('student_update/<int:num>/',views.student_update,name="update"),
 ]
+sdzfhjzsdf
+sdjfv
+djhfd
